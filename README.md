@@ -2,7 +2,7 @@
 ***
 ### It displays all the System files. Also lets you rename, delete and edit the files.
 
-#### JTree displays the file System files in a tree format, JTable displays the list of files in the selected path.
+#### JTree displays the System files in a tree format, JTable displays the list of files in the selected path.
 ---
 Displaying System files
 
